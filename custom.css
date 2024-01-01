@@ -253,6 +253,7 @@ body {
 
 .checkbox {
   cursor: pointer;
+  left: -15px !important;
 }
 
 .checkbox .text {
@@ -1448,8 +1449,7 @@ p {
 
   .mobile-view .mob-checkbox {
     position: relative;
-    left: -15px;
-    top: -10px;
+    margin-bottom: 20px;
   }
 
   .mobile-view .mar-top-5 {
