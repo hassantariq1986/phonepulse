@@ -253,7 +253,10 @@ body {
 
 .checkbox {
   cursor: pointer;
-  left: -15px !important;
+  
+}
+.coupon .checkbox {
+	left: -15px !important;
 }
 
 .checkbox .text {
@@ -1676,6 +1679,6 @@ p {
 }
 
 .top-search {
-  left: -280px;
+  left: -110px;
   position: relative;
 }
